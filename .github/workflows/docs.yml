@@ -26,6 +26,6 @@ jobs:
           pip install mkdocs-material
       - name: deploy
         run: |
-          git pull
+          git pull origin master
           mkdocs gh-deploy --force
           mkdocs --version
