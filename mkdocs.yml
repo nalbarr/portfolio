@@ -1,0 +1,18 @@
+site_name: Narciso Albarracin, MS CSM
+nav: 
+  - 'Home': index.md
+  - 'Areas of Focus': areas.md
+  - 'Projects': projects.md
+  - 'Details': details.md
+
+theme:
+  name: material
+  # logo: https://avatars.githubusercontent.com/u/1323390?s=400&u=5a93c4ed64591549b58bc05c062c1d07f1e0cf42&v=4
+  # favicon: https://avatars.githubusercontent.com/u/1323390?s=400&u=5a93c4ed64591549b58bc05c062c1d07f1e0cf42&v=4
+  
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/nalbarr
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/nalbarr3
