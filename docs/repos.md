@@ -14,23 +14,20 @@ By far my favorite ones are father and son experiments after my elder son asked 
 - 'hello-gcp-fhir'
 - 'hello-gcp-hcls-tools'
 
-## AI
+### Applied AI
 
-#### DL, TensorFlow, PyTorch
-- 'pytorch-spine-binary-classifier'
+#### Graphs, Knowledge Graphs
+- 'hello-tigergraph'
+- 'hello-tigergraph-gsql'
+- 'hello-docker-sql-and-graphs'
 
 ### NLP
 - 'hello-rasa-nlp-py'
 - 'hello-luke-ai-nlp-java'
 - 'hello-gcp-cloudrun-ray-nlp'
 
-### Applied AI
-#### Graphs, Knowledge Graphs
-- 'hello-tigergraph'
-- 'hello-tigergraph-gsql'
-- 'hello-docker-sql-and-graphs'
-
 #### DL, TensorFlow, PyTorch
+- 'pytorch-spine-binary-classifier'
 - 'hello-swift4ft'
 
 ### Human-centered AI (HCAI)
@@ -104,6 +101,7 @@ By far my favorite ones are father and son experiments after my elder son asked 
 - 'hello-luke-fsharp-git'
 
 ### Full-stack
+
 #### Java
 - 'hello-luke-android-java'
 
@@ -126,6 +124,7 @@ By far my favorite ones are father and son experiments after my elder son asked 
 - 'hello-ethereum-votingapp'
 
 ### K-12
+
 #### CS Fundamentals
 - 'hello-luke-javafx'
 - 'hello-luke-oop-fp'
@@ -146,7 +145,6 @@ By far my favorite ones are father and son experiments after my elder son asked 
 
 - 'coursera-deeplearning.ai'
 
-## Repos
 - 'coursera-ai4medx'
 - 'coursera-ai4med-course1x'
 - 'coursera-ai4med-course2x'
@@ -204,8 +202,8 @@ By far my favorite ones are father and son experiments after my elder son asked 
 - 'healthcareai-py' - DELETE
 - 'dl4j-examples' - DELETE
 - 'zenhub-helloworld' - DELETE
-- 'nodejs-ex'
-- 'sampleNod'
+- 'nodejs-ex' - DELETE
+- 'sampleNod' - DELETE
 - 'ibmbluemixhelloworld' - DELETE
 - 'python-boilerplate' - DELETE
 - 'hello-nlp-transformer-python3' - DELETE
