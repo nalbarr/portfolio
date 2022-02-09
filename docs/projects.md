@@ -1,39 +1,27 @@
-These are projects highlight what I am passionate about, how I approach learning and examples of what I cover mentoring for programs such as *HYBRID Labs*.  Some of them are aligned with industry problems I have been recently focused on.  Many of them I also use for mentoring.
+These are projects that I am most passionate and proud of.
 
 
-## Patient engagement
-This is simplified example and reference architecture called *SNOBIRD*.  It relates to Patient Engagement for Seniors and their caregivers.  I use it for mentoring and onboarding HYBRID Labs cohorts as an entry point into learning Digital Health concepts and full-stack development.  
+## Patient engagement for Seniors
+This is reference architecture called SNOBIRD.  I used for mentoring and teaching as part of HYBRID Labs.  It started out simple but then evolved to be very effective narrative, story and supporting technologies to educate what is possible in Digital Health.
 
-- Concepts:  Patient engagement
-- Notes: *Graphs*, Knowledge Graphs, Graphs + AI, ML
-- [link]
+Concepts:  Graph Thinking, Graphs, Knowledge Graphs
 
-## COVID-19 Cases and Deaths Visualization
-This notebook shows COVID-19 data as pulled from New York Times.  It started off an experiment but later turned out to be a great teaching tool show my own family how COVID-19 was impacting us at national and state level.
+## COVID-19 Cases and Deaths visualization
+This notebook shows COVID-19 cases and deaths data as pulled from New York Times.  It started off an experiment but later turned how as an effective teaching tool during COVID-19 to show my own family how COVID-19 was impacting us at national and state level.
 
-- Concepts:  COVID-19 cases and deaths, Epidemiology
-- Notes: Shows Data Science, Colab/Jupyter Notebook, Visualization (Plotly)
-- [link]
+Concepts: Data Science, Data Engineering, Visualization
 
 ## AI4MED experiments
-At least for modern AI, my biggest conceptual and learning breakthroughs have always started with Andrew Ng his original MOOC platform content on Coursera and the deeplearning.ai community.  Most recently, the #AI4MED course was the first certification that merged both an opportunity both learn and apply to what I was actually focused on at work.
+My biggest conceptual and learning breakthroughs have always started with Andrew Ng's MOOC early works, courses and evangelism.  The are many other popular MOOC variants, courses and reference but for reason I always anchor Andrew Ng, Coursera, deeplearning.ai.  I am completed many of the certifications but my favorite project was part of #AI4MED track.
 
-- Concepts:  Radiology, Imaging
-- Notes: Shows heat map overlay for image classification.  Extend this for an ML pipeline.
-- [link]
+Concepts:  Radiology, Imaging, Visualization, GradCAM
 
-## Halamka NLP
-I spend a lot of time in U.S. Healthcare especially within Digital Health sector and I follow John Halamka, MD very closely.  His work at both Beth Israel Deaconess Medical Center and now Mayo Clinic demonstrates amazing medical and technology leadership. 
+## Halamka NLP experiments
+I really respect John Halamka, MD as a Digital Health thought leader, clinician and family man.  I have been reading his blog since he started to blog and actually spent time analyzing his blog from a Data Science, Data Engineering and NLP perspective.
 
-I started to create a data engineering pipeline to practice data science methods and continue to evolve it as much as possible to align with recent AI, ML and NLP trends.
-
-- Concepts:  NLP, ML, Data Engineering
-- Notes: Shows AI, ML and NLP
-- [link]
+Concepts:  AI, ML, NLP, Sentiment analysis, Text classification
 
 ## Cancer staging API
-This project was an early proof of concept (POC) representative of how cancer staging works with North America cancer ecosystem and since has evolved within HIT standards community.
+This project was an early proof of concept (POC) that led to future HIT standard within cancer reporting within North America 
 
-- Concepts:  Cancer, Cancer staging, APIs
-- Notes: Shows Functional Thinking, FP, DSLs
-- [link]
+Concepts:  Cancer, Cancer staging, APIs, Functional Thinking, Domain specific languages (DSLs)
