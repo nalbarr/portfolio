@@ -3,7 +3,7 @@
 Areas I am most passionate about ...
 
 ## Digital Health
-I am have been writing about Digital Health and Digital Health Platforms (DHPs) for trends for years now.  At first as Healthcare IT strategist and practitioner, but later as a remote caregiver.  The latter has driven much what I am passionate about trying to fix in U.S. Healthcare.
+I am have been writing about Digital Health and Digital Health Platforms (DHPs) trends for years now.  At first as Healthcare IT strategist and practitioner, but later as a remote caregiver.  The latter has driven much what I am passionate about trying to fix in U.S. Healthcare.
 
 ## Connected and Informed Consumers, Graphs, Knowledge Graphs
 Experiencing the complexity of the U.S. Healthcare system in humbling.  Often times both the consumer and care teams do not have all the pieces of the puzzle to power experiences that matter.
