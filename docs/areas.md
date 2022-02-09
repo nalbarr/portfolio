@@ -17,7 +17,7 @@ I love interdisciplinary teams.  For me, at has been where all the great ideas a
 
 As founder of HYBRID Labs, I love mentoring the next generation and immersing teams into challenging topics like Digital Health, AI, and Cloud.  HYBRID Labs has had three teams place #1 in innovation competitions within Digital Health.
 
-Lastly, *connected the dots* for both clients and students is what I most proud of.  In past years, I have mentored over 25 teams of which we all together launched product innovations, new careers and value added relationships.
+Lastly, *connecting the dots* for both clients and students is what I most proud of.  In past years, I have mentored over 25 teams of which we all together launched product innovations, new careers and value added relationships.
 
 ## Health Information Technology (HIT) standards
 U.S. Healthcare has a $4.1 T cost to our nation that needs big fixes.  The 21st Century Cures Act combined with a COVID-19 technology trigger has accelerated modern Digital Health Platforms (DHPs).  However, none of it will work or get adopted at scale with HIT standards.

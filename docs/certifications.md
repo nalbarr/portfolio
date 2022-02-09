@@ -1,24 +1,57 @@
 # Certifications
 
+AI for Medicine Specialization;
+    DeepLearning.AI
+
+AI for Medical Diagnosis
+    DeepLearning.AI
+
+AI for Medical Prognosis
+    DeepLearning.AI
+
+AI for Medical Treatment
+    DeepLearning.AI
+
 Deep Learning Specialization;
-    deeplearning.ai
+    DeepLearning.AI
 
 Neural Networks and Deep Learning;
-    deeplearning.ai
+    DeepLearning.AI
 
 Convolutional Neural Networks;
-    deeplearning.ai
+    DeepLearning.AI
 
 Structuring Machine Learning Projects;
-    deeplearning.ai
+    DeepLearning.AI
 
 Improving Deep Neural Networks:  Hyperparameter tuning, Regularization and Optimization;
-    deeplearning.ai
+    DeepLearning.AI
 
 Sequence Models;
-    deeplearning.ai
+    DeepLearning.AI
+
+TensorFlow In Practice Specialization;
+    DeepLearning.AI
+
+Introduction to TensorFlow for Artificial Intelligence, Machine Learning, Deep Learning;
+    DeepLearning.AI
+
+Natural Language Processing in TensorFlow;
+    DeepLearning.AI
+
+Sequences, Time Series and Prediction;
+    DeepLearning.AI
+
+Google Cloud Platform Big Data and Machine Learning Fundamentals by Google Cloud;
+    Coursera
+
+Sequence Models for Time Series and Natural Language Processing by Google Cloud;
+    Coursera
 
 Health Informatics on FHIR;
+    George Institute of Technology
+
+Health Informatics in the Cloud;
     George Institute of Technology
 
 R Programming;
@@ -26,6 +59,21 @@ R Programming;
 
 The Data Scientist's Toolbox;
     John Hopkins University
+
+Getting and Cleaning Data;
+    John Hopkins University
+
+A Crash Course in Data Science;
+    John Hopkins University
+
+Interprofessional Healthcare Informatics
+    University of Minnesota
+
+Genomic Medicine Gets Personal
+    Georgetown University
+
+Cognitive Technologies: The real opportunities for business;
+    Deloitte LLP
 
 Serverless Machine Learning with Tensorflow on Google Cloud Platform;
 
