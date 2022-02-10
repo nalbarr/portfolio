@@ -3,4 +3,4 @@
 
 ## [Portfolio](https://nalbarr.github.io)
 
-## [Repo quick links]](https://github.com/nalbarr/my-projects)
+## Repo quick [links](https://github.com/nalbarr/my-projects)
