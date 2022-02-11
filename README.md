@@ -3,4 +3,4 @@
 
 My portfolio is [here](https://nalbarr.github.io)
 
-Project quick links [here](https://github.com/nalbarr/my-projects)
+Repo links [here](https://github.com/nalbarr/my-projects)
