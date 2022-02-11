@@ -16,4 +16,4 @@ I love to learn by doing.  I also love learning by teaching.
 
 I am constantly experimenting from different angles and trying to share perspectives with others.  Below are a variety of areas I am exploring, kicking the tires.  Failing, learning... sometimes breaking through.
 
-[repos](repos.md)
+[repos](https://github.com/nalbarr/my-projects)
