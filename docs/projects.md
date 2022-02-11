@@ -7,21 +7,21 @@ This is reference architecture called SNOBIRD.  I used for mentoring and teachin
 Concepts:  Graph Thinking, Graphs, Knowledge Graphs
 
 ## COVID-19 Cases and Deaths visualization
-This notebook shows COVID-19 cases and deaths data as pulled from New York Times.  It started off an experiment but later turned how as an effective teaching tool during COVID-19 to show my own family how COVID-19 was impacting us at national and state level.
+This notebook shows COVID-19 cases and deaths data as pulled from New York Times.  It started off an experiment but later turned out as an effective teaching tool during COVID-19 to show my own family how COVID-19 was impacting us at national and state level.
 
 Concepts: Data Science, Data Engineering, Visualization
 
 ## AI4MED experiments
-My biggest conceptual and learning breakthroughs have always started with Andrew Ng's MOOC early works, courses and evangelism.  The are many other popular MOOC variants, courses and reference but for reason I always anchor Andrew Ng, Coursera, deeplearning.ai.  I am completed many of the certifications but my favorite project was part of #AI4MED track.
+My biggest modern AI learning breakthroughs have always started with Andrew Ng's early MOOCs, deeplearing.ai courses and continuing evangelism.  There are many other popular MOOC variants, though leaders and references but for reason I always come back to Andrew Ng's ecosystem.  It also inspired me to become a better mentor and learner - all the time.  I am completed many of the certifications but my favorite is the #AI4MED certification.  It was the first time to explore learning along side with industry-specific use cases closer to real workd.
 
 Concepts:  Radiology, Imaging, Visualization, GradCAM
 
 ## Halamka NLP experiments
-I really respect John Halamka, MD as a Digital Health thought leader, clinician and family man.  I have been reading his blog since he started to blog and actually spent time analyzing his blog from a Data Science, Data Engineering and NLP perspective.
+I really respect John Halamka, MD as a Digital Health thought leader, clinician and family man.  I have been reading his blog since he started and I use it as a data source for Data Science, Data Engineering and NLP experiments.  Since he blogs both about personal and industry together I find it useful for a variety of NLP tasks.
 
 Concepts:  AI, ML, NLP, Sentiment analysis, Text classification
 
 ## Cancer staging API
-This project was an early proof of concept (POC) that led to future HIT standard within cancer reporting within North America 
+This project was an early proof of concept (POC) that led to a future HIT standard within cancer reporting within North America.  It is abstracted a bit from anything proprietary or specific. 
 
 Concepts:  Cancer, Cancer staging, APIs, Functional Thinking, Domain specific languages (DSLs)
