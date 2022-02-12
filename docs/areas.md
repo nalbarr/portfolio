@@ -10,12 +10,12 @@ Experiencing the complexity of the U.S. Healthcare system in humbling.  Often ti
 
 They need information to be accessible, available and connected to make decisions.  I believe modern graph platforms and knowledge graphs can empower better experiences.
 
-In past life, I had the opportunity to directly with the SNOMED CT informatics team and much of my graph thinking, knowledge graph and informatics training comes from those experiences.
+I have had the opportunity to have worked with SNOMED CT product and implementation leaders and experts where much of my current AI, graph thinking, knowledge graph are founded upon.
 
 ## Building Bridges, Mentoring, Connecting The Dots 
-I love interdisciplinary teams.  For me, at has been where all the great ideas and innovation magic happen.  Once you have been part of a team like that - you never want to let the feeling go and always are looking to *build bridges* to make it happen again.
+I *love* interdisciplinary teams.  For me, this where all the great ideas and innovation magic happen.  Once you have been part of a team like that - you never want to let the feeling go and always are looking to make it happen again.  This involve a lot of *bridge building* to connect customer, problems worth solving, specific needs and solutions that can sustain.
 
-As founder of HYBRID Labs, I love *mentoring* the next generation and immersing teams into challenging topics like Digital Health, AI, and Cloud.  HYBRID Labs has had three teams place #1 in innovation competitions within Digital Health.
+As a founder of HYBRID Labs, I love *mentoring* the next generation and immersing teams into challenging topics like Digital Health, AI, and Cloud.  HYBRID Labs has had three teams place #1 in innovation competitions within Digital Health.
 
 Lastly, *connecting the dots* for both clients and students is what I most proud of.  In past years, I have mentored over 25 teams of which we all together launched product innovations, new careers and value added relationships.
 
