@@ -2,21 +2,21 @@ These are projects that I am most passionate and proud of.
 
 
 ## Patient engagement for Seniors
-This is reference architecture called SNOBIRD.  I used for mentoring and teaching as part of HYBRID Labs.  It started out simple but then evolved to be very effective narrative, story and supporting technologies to educate what is possible in Digital Health.
+SNOBIRD is a teaching case I use at HYBRID Labs for mentoring and teaching.  I found it is one of the most effective ways to engage students as it is based on some real personal experience but also the narrative and story is supported by a real world reference architecture and technology stack.
 
 Concepts:  Graph Thinking, Graphs, Knowledge Graphs
 
 [repo]()
 
 ## COVID-19 Cases and Deaths visualization
-This notebook shows COVID-19 cases and deaths data as pulled from New York Times.  It started off an experiment but later turned out as an effective teaching tool during COVID-19 to show my own family how COVID-19 was impacting us at national and state level.
+This notebook shows COVID-19 cases and deaths data as pulled from {New York Times](https://github.com/nytimes/covid-19-data).  It started off an experiment but later turned out as an effective teaching tool during COVID-19 to show my own family how COVID-19 was impacting us at national and state level.
 
 Concepts: Data Science, Data Engineering, Visualization
 
 [repo](https://github.com/nalbarr/covid19-cases-deaths)
 
 ## AI4MED experiments
-My biggest modern AI learning breakthroughs have always started with Andrew Ng's early MOOCs, deeplearing.ai courses and continuing evangelism.  There are many other popular MOOC variants, though leaders and references but for reason I always come back to Andrew Ng's ecosystem.  It also inspired me to become a better mentor and learner - all the time.  I am completed many of the certifications but my favorite is the #AI4MED certification.  It was the first time to explore learning along side with industry-specific use cases closer to real workd.
+My biggest learning breakthroughs for modern AI have always started with Andrew Ng's early MOOCs, deeplearning.ai courses and continuing evangelism such as [The Batch](https://read.deeplearning.ai/the-batch/).  There are many other popular MOOC variants, though leaders and references but for reason I always come back to Andrew Ng's ecosystem.  It also inspired me to become a better mentor and learner - all the time.  I am completed many of the certifications but my favorite is the #AI4MED certification.  It was the first time to explore learning along side with industry-specific use cases closer to real workd.
 
 Concepts:  Radiology, Imaging, Visualization, GradCAM
 
