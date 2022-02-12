@@ -6,12 +6,16 @@ SNOBIRD is a teaching case I use at HYBRID Labs for mentoring and teaching.  I f
 
 Concepts:  Graph Thinking, Graphs, Knowledge Graphs
 
+Technologies:  React, Django, Python, NoSQL (graph store), Postgres, GCP
+
 [repo]()
 
 ## COVID-19 Cases and Deaths visualization
 This notebook shows COVID-19 cases and deaths data as pulled from {New York Times](https://github.com/nytimes/covid-19-data).  It started off an experiment but later turned out as an effective teaching tool during COVID-19 to show my own family how COVID-19 was impacting us at national and state level.
 
 Concepts: Data Science, Data Engineering, Visualization
+
+Technologies:  Jupyter Notebook/Colab, Python, Pandas, Plotly
 
 [repo](https://github.com/nalbarr/covid19-cases-deaths)
 
@@ -20,6 +24,8 @@ My biggest learning breakthroughs for modern AI have always started with Andrew 
 
 Concepts:  Radiology, Imaging, Visualization, GradCAM
 
+Technologies:  Jupyter Notebook/Colab, Python
+
 [repo](https://github.com/nalbarr/coursera-ai4med-course3/tree/master/week3)
 
 ## Halamka NLP experiments
@@ -27,11 +33,15 @@ I really respect John Halamka, MD as a Digital Health thought leader, clinician 
 
 Concepts:  AI, ML, NLP, Sentiment analysis, Text classification
 
+Technologies:  Jupyter Notebook/Colab, Python, Tensorflow, Kera, NLP
+
 [repo]()
 
 ## Cancer staging API
 This project was an early proof of concept (POC) that led to a future HIT standard within cancer reporting within North America.  It is abstracted a bit from anything proprietary or specific. 
 
 Concepts:  Cancer, Cancer staging, APIs, Functional Thinking, Domain specific languages (DSLs)
+
+Technologies:  Scala, REST APIs, DSLs, NoSQL (document store) 
 
 [repo]()
