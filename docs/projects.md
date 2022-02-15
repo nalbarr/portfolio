@@ -32,11 +32,11 @@ Technologies:  Jupyter Notebook/Colab, Python
 ## Halamka NLP experiments
 I really respect John Halamka, MD as a Digital Health thought leader, clinician and family man.  I have been reading his blog since he started and I use it as a data source for Data Science, Data Engineering and NLP experiments.  Since he blogs both about personal and industry together I find it useful for a variety of NLP tasks.
 
-Concepts:  AI, ML, NLP, Sentiment analysis, Text classification
+Concepts:  AI, ML, NLP, Text classification
 
 Technologies:  Jupyter Notebook/Colab, Python, Tensorflow, Kera, NLP
 
-[repo]()
+[repo](https://github.com/nalbarr/halamka_nlp_tf_keras)
 
 ## Cancer staging API
 This project was an early proof of concept (POC) that led to a future HIT standard within cancer reporting within North America.  It is abstracted a bit from anything proprietary or specific. 
