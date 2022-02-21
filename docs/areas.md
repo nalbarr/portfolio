@@ -3,14 +3,14 @@
 Areas I am most passionate about ...
 
 ## Digital Health
-I am have been writing about Digital Health and Digital Health Platforms (DHPs) trends for years now.  At first as Healthcare IT strategist and practitioner, but later as a remote caregiver.  The latter has driven much what I am passionate about trying to fix in U.S. Healthcare.
+I have been writing about Digital Health and Digital Health Platforms (DHPs) trends for years now.  At first as Healthcare IT strategist and practitioner, but later as a remote caregiver.  The latter has driven much what I am passionate about trying to fix in U.S. Healthcare.
 
 ## Connected and Informed Consumers, Graphs, Knowledge Graphs
-Experiencing the complexity of the U.S. Healthcare system in humbling.  Often times both the consumer and care teams do not have all the pieces of the puzzle to power experiences that matter.
+Experiencing the complexity of the U.S. Healthcare system is humbling.  Often times both the consumer and care teams do not have all the pieces of the puzzle to power experiences that matter.
 
-They need information to be accessible, available and connected to make decisions.  I believe modern graph platforms and knowledge graphs can empower better experiences.
+They need information to be accessible, available, and connected to make decisions.  I believe modern graph platforms and knowledge graphs can empower better experiences.
 
-I have had the opportunity to have worked with SNOMED CT product and implementation leaders and experts where much of my current AI, graph thinking, knowledge graph are founded upon.
+I have had the opportunity to have worked with SNOMED CT product and implementation leaders and experts where much of my current applied AI, graph thinking, and knowledge graph perspectives are grounded.
 
 ## Building Bridges, Mentoring, Connecting The Dots 
 I *love* interdisciplinary teams.  For me, this where all the great ideas and innovation magic happen.  Once you have been part of a team like that - you never want to let the feeling go and always are looking to make it happen again.  This involve a lot of *bridge building* to connect customer, problems worth solving, specific needs and solutions that can sustain.
@@ -25,13 +25,13 @@ U.S. Healthcare has a $4.1 T cost to our nation that needs big fixes.  The 21st 
 Modern HIT standards such as HL7 FHIR and APIs and related data standards such as USCDI, SNOMED CT, etc. require practictioner monitoring and application.
 
 ## Artificial Intelligence (AI)
-Every since I was an engineering student, I have always been fascinated with AI and what it might lead to in the future.  AI has gone through many evolutions - but I have mostly been on the applied AI side - *solving problems, building solutions*.  
+Ever since I was an engineering student, I had always been fascinated with AI and what it might lead to in the future.  AI has gone through many evolutions - but I have mostly been on the applied AI side - *solving problems, building solutions*.  
 
-From first order logic rules enginers to ontologies to deep learning models, they focus has alwasy been the same - empower humans to achieve their goals with value, at lower cost or risk.
+From first order logic rules engines to ontologies to deep learning models, the focus has always been the same - empower humans to achieve their goals with value, at lower cost or risk.
 
-More recently, I am aligned with Andrew Ng's data-centric AI (DCAI) and Fei Fei Lei's human-centric AI philosophy of where AI, ML and DL are going.  For me, this involves emphasizing with humans and their needs while still architecting high quality systems.  
+More recently, I am aligned with Andrew Ng's data-centric AI (DCAI) and Fei Fei Lei's human-centric AI philosophy of where AI, ML, and DL are going.  For me, this involves empathizing with humans and their needs while still architecting high quality systems.  
 
 ## Cloud, Platform Thinking
 For clients, I need to solve their problems in the near and medium term.  I need to listen and solve their problems which requires an objective, solution agnostic and cloud neutral stance.  It really is not about Cloud; more about using platform thinking to solve problems in the small, then at scale.
 
-That said, my first cloud was Microsoft Azure.  Most of my earlier cloud experiences have been on Azure with on-premises lift and shift workloads.  More recently, both delivery and mentoring have been more focused on Google Cloud Platform (GCP) leaning toward more cloud-native, data engineering and MLOps centric architectures.  I am familiar with Amazon AWS and IBM Redhat Cloud but more practictioner grounded on the previous two.
+That said, my first cloud was Microsoft Azure.  Most of my earlier cloud experiences have been on Azure with on-premises lift and shift workloads.  More recently, both delivery and mentoring have been more focused on Google Cloud Platform (GCP) leaning toward more cloud-native, data engineering and MLOps centric architectures.  I am familiar with Amazon AWS and IBM Redhat Cloud but more practitioner grounded on the previous two.
