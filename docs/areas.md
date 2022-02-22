@@ -2,9 +2,6 @@
 
 Areas I am most passionate about ...
 
-## Digital Health
-I have been writing about Digital Health and Digital Health Platforms (DHPs) trends for years now.  At first as Healthcare IT strategist and practitioner, but later as a remote caregiver.  The latter has driven much what I am passionate about trying to fix in U.S. Healthcare.
-
 ## Connected and Informed Consumers, Graphs, Knowledge Graphs
 Experiencing the complexity of the U.S. Healthcare system is humbling.  Often times both the consumer and care teams do not have all the pieces of the puzzle to power experiences that matter.
 
@@ -18,6 +15,9 @@ I *love* interdisciplinary teams.  For me, this where all the great ideas and in
 As a founder of HYBRID Labs, I love *mentoring* the next generation and immersing teams into challenging topics like Digital Health, AI, and Cloud.  HYBRID Labs has had three teams place #1 in innovation competitions within Digital Health.
 
 Lastly, *connecting the dots* for both clients and students is what I most proud of.  In past years, I have mentored over 25 teams of which we all together launched product innovations, new careers and value added relationships.
+
+## Digital Health
+I have been writing about Digital Health and Digital Health Platforms (DHPs) trends for years now.  At first as Healthcare IT strategist and practitioner, but later as a remote caregiver.  The latter has driven much what I am passionate about trying to fix in U.S. Healthcare.
 
 ## Health Information Technology (HIT) standards
 U.S. Healthcare has a $4.1 T cost to our nation that needs big fixes.  The 21st Century Cures Act combined with a COVID-19 technology trigger has accelerated modern Digital Health Platforms (DHPs).  However, none of it will work or get adopted at scale *without* HIT standards.
