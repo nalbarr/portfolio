@@ -3,11 +3,11 @@
 Areas I am most passionate about ...
 
 ## Connected and Informed Consumers, Graphs, Knowledge Graphs
-Experiencing the complexity of the U.S. Healthcare system is humbling.  Often times both the consumer and care teams do not have all the pieces of the puzzle to power experiences that matter.
+Ask yourself this question?  Does the platform or tools you or your team uses really help you?  Client ofte as me this *or* I ask myself as a remote caregiver of the Healthcare system.  Most of the time we are puzzled as we do not have many of the pieces of the puzzle to solve the problem in front of us.
 
-They need information to be accessible, available, and connected to make decisions.  I believe modern graph platforms and knowledge graphs can empower better experiences.
+We need information to be accessible, available, and connected to make decisions.  I believe modern graph platforms and knowledge graphs can empower better experiences.
 
-I have had the opportunity to have worked with SNOMED CT product and implementation leaders and experts where much of my current applied AI, graph thinking, and knowledge graph perspectives are grounded.
+Much of my current applied AI, graph thinking, and knowledge graph perspectives are grounded with working with SNOMED CT  and related product and implementation experts launching digital products.  I seen what worked, what failed, what I aspire a good digital platform to be.
 
 ## Building Bridges, Mentoring, Connecting The Dots 
 I *love* interdisciplinary teams.  For me, this where all the great ideas and innovation magic happen.  Once you have been part of a team like that - you never want to let the feeling go and always are looking to make it happen again.  This involve a lot of *bridge building* to connect customer, problems worth solving, specific needs and solutions that can sustain.
