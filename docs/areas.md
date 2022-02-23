@@ -3,16 +3,18 @@
 Areas I am most passionate about ...
 
 ## Connected and Informed Consumers, Graphs, Knowledge Graphs
-Ask yourself this question?  Does the platform or tools you or your team uses really help you?  
+Ask yourself this question?  Does the product you use really help you?  Do you find yourself having to look for right information but get frustated?  So much - you may even look for another product?  *Enter the age of the Connected and Informed Consumer*.   
 
-Clients often ask me *and* I ask myself as a remote caregiver of the Healthcare system.  Most of the time we are puzzled as we do not have many of the pieces of the puzzle to solve the problem in front of us.  We often never have the information accessible, available, and connected to make decisions.  
+Clients often ask me this to solve their industry-specific problems.
+
+A more *tangible* example is *I ask myself* as a remote caregiver of the U.S.  Healthcare system.  Most of the time we as a *product consumer* are puzzled as we do not pieces of the puzzle to solve the problem in front of us.  We often never have the right information accessible, available, and connected to make decisions.  
 
 I believe modern graph platforms and knowledge graphs can empower better experiences.
 
 ## Building Bridges, Mentoring, Connecting The Dots 
 I *love* interdisciplinary teams.  For me, this where all the great ideas and innovation magic happen.  Once you have been part of a team like that - you never want to let the feeling go and always are looking to make it happen again.  This involve a lot of *bridge building* to connect customer, problems worth solving, specific needs and solutions that can sustain.
 
-As a founder of HYBRID Labs, I love *mentoring* the next generation and immersing teams into challenging topics like Digital Health, AI, and Cloud.  HYBRID Labs has had three teams place #1 in innovation competitions within Digital Health.
+As a founder of *HYBRID Labs* (:tm:), I love *mentoring* the next generation and immersing teams into challenging topics like Digital Health, AI, and Cloud.  *HYBRID Labs* (:tm:) has had three teams place #1 in innovation competitions within Digital Health.
 
 Lastly, *connecting the dots* for both clients and students is what I most proud of.  In past years, I have mentored over 25 teams of which we all together launched product innovations, new careers and value added relationships.
 
@@ -29,9 +31,7 @@ Ever since I was an engineering student, I had always been fascinated with AI an
 
 From first order logic rules engines to ontologies to deep learning models, the focus has always been the same - empower humans to achieve their goals with value, at lower cost or risk.
 
-Much of my current applied AI, graph thinking, and knowledge graph perspectives are grounded with working with SNOMED CT  and related product and implementation experts launching digital products.
-
-More recently, I am aligned with Andrew Ng's data-centric AI (DCAI) and Fei Fei Lei's human-centric AI philosophy of where AI, ML, and DL are going.  For me, this involves empathizing with humans and their needs while still architecting high quality systems.  
+Much of my current applied AI, graph thinking, and knowledge graph perspectives are grounded with working with SNOMED CT  and related product and implementation experts launching digital products.  More recently, I am aligned with Andrew Ng's data-centric AI (DCAI) and Fei Fei Lei's human-centric AI philosophy of where AI, ML, and DL are going.  For me, this involves empathizing with humans and their needs while still architecting high quality systems.  
 
 ## Cloud, Platform Thinking
 For clients, I need to solve their problems in the near and medium term.  I need to listen and solve their problems which requires an objective, solution agnostic and cloud neutral stance.  It really is not about Cloud; more about using platform thinking to solve problems in the small, then at scale.
