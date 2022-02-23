@@ -1,7 +1,7 @@
 # Details
 
 ## Publications, White papers, Presentations
-I have had the opportunity to publish, share ideas both formally and otherwise.  Many failures along the way, but some made it to real world products and commercialization.
+I have had the opportunity to publish, share ideas both formally and otherwise.  A lot of learning and many failures along the way, but some made it to real world products and commercialization.
 
 [publications](publications.md)
 
