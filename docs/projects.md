@@ -7,7 +7,7 @@ Concepts:  Graph Thinking, Graphs, Knowledge Graphs
 
 Technologies:  React, Django, Python, NoSQL (graph store), Postgres, GCP
 
-[repo]()
+[repo](https://github.com/nalbarr/hello-snobird)
 
 ## COVID-19 Cases and Deaths visualization
 This notebook shows COVID-19 cases and deaths data as pulled from [New York Times](https://github.com/nytimes/covid-19-data).  This started as an experiment but later turned out as an effective communication tool in showing my own family how COVID-19 impacted us at national and state level.
