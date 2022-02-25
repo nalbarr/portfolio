@@ -1,7 +1,7 @@
 These are projects that I am most passionate and proud of.
 
 ## Patient Empowerment for Seniors
-*SNOBIRD*(:tm:) is a teaching case I use at *HYBRID Labs*(:tm:) for mentoring and teaching.  It has been an effective way to engage students as it is based on real family based narratives and datasets and implemented on relevant architecture and technology stacks.
+*SNOBIRD*&trade; is a teaching case I use at *HYBRID Labs*&trade; for mentoring and teaching.  It has been an effective way to engage students as it is based on real family based narratives and datasets and implemented on relevant architecture and technology stacks.
 
 Concepts:  Graph Thinking, Graphs, Knowledge Graphs
 
