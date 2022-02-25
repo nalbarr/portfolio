@@ -26,14 +26,18 @@ I have been writing about Digital Health and Digital Health Platforms (DHPs) tre
 ## Health Information Technology (HIT) standards
 U.S. Healthcare has a $4.1 T cost to our nation that needs big fixes.  The 21st Century Cures Act combined with a COVID-19 technology trigger has accelerated modern Digital Health Platforms (DHPs).  However, none of it will work or get adopted at scale *without* HIT standards.
 
-Modern HIT standards such as HL7 FHIR and APIs and related data standards such as USCDI, SNOMED CT, etc. require practictioner monitoring and application.
+Modern HIT standards such as HL7 FHIR and APIs and related data standards such as USCDI, SNOMED CT, etc. require continuous practitioner level capability and skill building along with real world delivery.
 
 ## Artificial Intelligence (AI)
 Ever since I was an engineering student, I had always been fascinated with AI and what it might lead to in the future.  AI has gone through many evolutions - but I have mostly been on the applied AI side - *solving problems, building solutions*.  
 
 From first order logic rules engines to ontologies to deep learning models, the focus has always been the same - empower humans to achieve their goals with value, at lower cost or risk.
 
-Much of my current applied AI, graph thinking, and knowledge graph perspectives are grounded with working with SNOMED CT  and related product and implementation experts launching digital products.  More recently, I am aligned with Andrew Ng's data-centric AI (DCAI) and Fei Fei Lei's human-centric AI philosophy of where AI, ML, and DL are going.  For me, this involves empathizing with humans and their needs while still architecting high quality systems.  
+Much of my current applied AI, graph thinking, and knowledge graph perspectives are grounded with working with SNOMED CT and informatics experts launching digital products.  These deep industry experiences combined with attending graduate school with a heavy focus on human-centered design (HCD) transformed be to be product centered versus only wearing the *engineering* hat.
+
+More recently, I navigated much of the deeplearning.ai certifications to fully indoctroniate in modern AI trends.
+
+What are my current perspectives?  I am fully aligned with Andrew Ng's data-centric AI (DCAI) near term *but* Fei Fei Lei's human-centric AI philosophy of where AI, ML, and DL is where the hockey puck is going.  So, Data-centric and pragmatic in the short term with a vision and alignment for empathy, trust and ethics in the long term.
 
 ## Cloud, Platform Thinking
 For clients, I need to solve their problems in the near and medium term.  I need to listen and solve their problems which requires an objective, solution agnostic and cloud neutral stance.  It really is not about Cloud; more about using platform thinking to solve problems in the small, then at scale.
