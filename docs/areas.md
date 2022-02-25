@@ -5,18 +5,18 @@ Areas I am most passionate about ...
 ## Connected and Informed Consumers, Graphs, Knowledge Graphs
 Ask yourself this question?  Does the product you use really help you?  Do you find yourself having to look for right information but get frustated?  So much - you may even look for another product?   
 
-Clients often ask me this to solve their industry-specific problems.  Enter the accelerating trend of the *Connected and Informed Consumer*.  
+Clients often ask me this to solve their industry-specific problems.  Enter the accelerating industry trend of the *Connected and Informed Consumer*.  
 
 A more *tangible* example...
 
-As a remote caregiver of the U.S.  Healthcare system, *I ask myself* - We often never have the right information accessible, available, and connected to make decisions.  Most of the time we as a *product consumers* are not empowered to solve the problem in front of us.  
+As a remote caregiver of the U.S.  Healthcare system, *I ask myself* - we often never have the right information accessible, available, and connected to make decisions.  Most of the time we as a *product consumers* are not empowered to solve the problem in front of us.  
 
 I believe digital platforms powered by modern graph platforms, knowledge graphs, Cloud and AI can get us all closer to the desired product experience.
 
 ## Building Bridges, Mentoring, Connecting The Dots 
 I *love* interdisciplinary teams.  For me, this where all the great ideas and innovation magic happen.  Once you have been part of a team like that - you never want to let the feeling go and always are looking to make it happen again.  This involve a lot of *bridge building* to connect customer, problems worth solving, specific needs and solutions that can sustain.
 
-As a founder of *HYBRID Labs* (:TM:), I love *mentoring* the next generation and immersing teams into challenging topics like Digital Health, AI, and Cloud.  *HYBRID Labs* (:TM:) has had three teams place #1 in innovation competitions within Digital Health.
+As a founder of *HYBRID Labs*:tm:, I love *mentoring* the next generation and immersing teams into challenging topics like Digital Health, AI, and Cloud.  *HYBRID Labs*:tm: has had three teams place #1 in innovation competitions within Digital Health.
 
 Lastly, *connecting the dots* for both clients and students is what I most proud of.  In past years, I have mentored over 25 teams of which we all together launched product innovations, new careers and value added relationships.
 
