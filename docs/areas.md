@@ -40,6 +40,6 @@ More recently, I navigated much of the deeplearning.ai certifications to fully i
 What are my current perspectives?  I am fully aligned with Andrew Ng's data-centric AI (DCAI) near term *but* Fei Fei Lei's human-centric AI philosophy of where AI, ML, and DL is where the hockey puck is going.  So, Data-centric and pragmatic in the short term with a vision and alignment for empathy, trust and ethics in the long term.
 
 ## Cloud, Platform Thinking
-For clients, I need to solve their problems in the near and medium term.  I need to listen and solve their problems which requires an objective, solution agnostic and cloud neutral stance.  It really is not about Cloud; more about using platform thinking to solve problems in the small, then at scale.
+For clients, I need to address their problems in the near and medium term.  This involves intentful listening and problem framing which requires an objective, solution agnostic and cloud neutral stance.  It really is not about Cloud; more about using platform thinking to solve problems in the small, then at scale.
 
 That said, my first cloud was Microsoft Azure.  Most of my earlier cloud experiences have been on Azure with on-premises lift and shift workloads.  More recently, both delivery and mentoring have been more focused on Google Cloud Platform (GCP) leaning toward more cloud-native, data engineering and MLOps centric architectures.  I am familiar with Amazon AWS and IBM Redhat Cloud but more practitioner grounded on the previous two.
