@@ -2,7 +2,7 @@
 
 Areas I am most passionate about ...
 
-## Connected and Informed Consumers, Graphs, Knowledge Graphs
+## Connected and Informed Consumers, Graphs, Knowledge Graphs, Quantum ML?
 Ask yourself this question?  Does the product you use really help you?  Do you find yourself having to look for right information but get frustated?  So much - you may even look for another product?   
 
 Clients often ask me this to solve their industry-specific problems.  Enter the accelerating industry trend of the *Connected and Informed Consumer*.  
@@ -11,7 +11,7 @@ A more *tangible* example...
 
 As a remote caregiver of the U.S.  Healthcare system, *I ask myself* - we often never have the right information accessible, available, and connected to make decisions.  Most of the time we as a *product consumers* are not empowered to solve the problem in front of us.  
 
-I believe digital platforms powered by modern graph platforms, knowledge graphs, Cloud and AI can get us all closer to the desired product experience.
+I believe digital platforms powered by modern graph platforms, knowledge graphs, Cloud and AI can get us all closer to the desired product experience.  We are already entering a time even Quantum Computing (QC) with Quantum ML/Simulation has early innovation stories.
 
 ## Building Bridges, Mentoring, Connecting The Dots 
 I *love* interdisciplinary teams.  For me, this where all the great ideas and innovation magic happen.  Once you have been part of a team like that - you never want to let the feeling go and always are looking to make it happen again.  This involves a lot of *bridge building* to connect customers, problems, specific needs and cleverly match resources and solutions to business models that can sustain them.
