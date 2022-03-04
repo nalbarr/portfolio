@@ -4,6 +4,18 @@
 1. About HYBRID
 2. Nadella's 3 Cs + 1
 
+## Concepts
+### HYBRID #1
+MAGIC BOX, SHOW ME, TIKI TAKA, MAN-U TEST,
+SELL IT, DEVOPS, DORA #1 and #2, SMALL BATCH,
+SNOBIRD, PROJECTX
+
+### HYBRID #2
+"GREYHOUND", POD LEADER, CONNECT BRIDGE FROM 2 ENDS,
+
+### HYBRID #3
+LIVE FIRE, OODA LOOP, WARDLEY MAP, 5 TRIBES
+
 ## Cohort History
 
 ### HYBRID-SPRING2022
@@ -31,13 +43,13 @@
 
 
 #### Graduate
-- Context.  U.S. Healthcare, Digital Health
+- Strategic Context.  U.S. Healthcare, Digital Health
 - Concepts.
 - Capabilities.
 - Culture. 
 
 #### Undergraduate
-- Context.  U.S. Healthcare, Digital Health
+- Strategic Context.  U.S. Healthcare, Digital Health
 - Concepts.
 - Capabilities.
 - Culture. 
