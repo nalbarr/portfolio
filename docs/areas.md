@@ -37,7 +37,7 @@ Much of my current applied AI, graph thinking, and knowledge graph perspectives 
 
 More recently, I navigated much of the deeplearning.ai certifications to fully indoctroniate in modern AI trends.
 
-What are my current perspectives?  I am fully aligned with Andrew Ng's data-centric AI (DCAI) near term *but* Fei Fei Lei's human-centric AI philosophy of where AI, ML, and DL is where the hockey puck is going.  So, Data-centric and pragmatic in the short term with a vision and alignment for empathy, trust and ethics in the long term.
+What are my current perspectives?  I am fully aligned with Andrew Ng's data-centric AI (DCAI) near term *but* Fei Fei Lei's human-centric AI philosophy of where AI, ML, and DL is where the hockey puck is going.  So, Data-centric and pragmatic in the short term with a vision and alignment for empathy, trust and ethics in the long term.  A longer term that may include beyond classic hardware and moving towards Quantum Computing (QC) starting with <100 qubit Quantum ML and simulation use cases.
 
 ## Cloud, Platform Thinking
 For clients, I need to address their problems in the near and medium term.  This involves intentful listening and problem framing which requires an objective, solution agnostic and cloud neutral stance.  It really is not about Cloud; more about using platform thinking to solve problems in the small, then at scale.
