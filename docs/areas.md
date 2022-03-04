@@ -26,7 +26,7 @@ I have been writing about Digital Health and Digital Health Platforms (DHPs) tre
 ## Health Information Technology (HIT) standards
 U.S. Healthcare has a $4.1 T cost to our nation that needs big fixes.  The 21st Century Cures Act combined with a COVID-19 technology trigger has accelerated modern Digital Health Platforms (DHPs).  However, none of it will work or get adopted at scale *without* HIT standards.
 
-Modern HIT standards such as HL7 FHIR and APIs and related data standards such as USCDI, SNOMED CT, etc. require continuous practitioner capability and skill building along with real world delivery.
+Modern HIT standards such as HL7 FHIR and APIs and related data standards such as USCDI, SNOMED CT, etc. require continuous practitioner capability and skill building along with real world *last mile* delivery experience.
 
 ## Artificial Intelligence (AI)
 Ever since I was an engineering student, I had always been fascinated with AI and what it might lead to in the future.  AI has gone through many evolutions - but I have mostly been on the applied AI side - *understanding human needs, solving problems, building solutions*.  
