@@ -11,7 +11,9 @@ A more *tangible* example...
 
 As a remote caregiver of the U.S.  Healthcare system, *I ask myself* - we often never have the right information accessible, available, and connected to make decisions.  Most of the time we as a *product consumers* are not empowered to solve the problem in front of us.  
 
-I believe digital platforms powered by modern graph platforms, knowledge graphs, Cloud and AI can get us all closer to the desired product experience.  We are already entering a time even Quantum Computing (QC) with Quantum ML/Simulation has early innovation stories.
+I believe digital platforms powered by modern graph platforms, knowledge graphs, Cloud and AI can get us all closer to the desired product experience.  
+
+We are already entering a time where Quantum Computing (QC) has announced early innovation stories for Quantum ML/Simulation.
 
 ## Building Bridges, Mentoring, Connecting The Dots 
 I *love* interdisciplinary teams.  For me, this where all the great ideas and innovation magic happen.  Once you have been part of a team like that - you never want to let the feeling go and always are looking to make it happen again.  This involves a lot of *bridge building* to connect customers, problems, specific needs and cleverly match resources and solutions to business models that can sustain them.
