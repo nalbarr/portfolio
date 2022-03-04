@@ -40,13 +40,7 @@ LIVE FIRE, OODA LOOP, WARDLEY MAP, 5 TRIBES
 ### HYBRID-FALL2020
 1. JPOD - RJ, JC
 
-
-
-#### Graduate
-- Strategic Context.  U.S. Healthcare, Digital Health
-- Concepts.
-- Capabilities.
-- Culture. 
+### Backtrack from here
 
 #### Undergraduate
 - Strategic Context.  U.S. Healthcare, Digital Health
@@ -58,9 +52,22 @@ LIVE FIRE, OODA LOOP, WARDLEY MAP, 5 TRIBES
 - 'hello-shapes-react'
 - 'hello-patient-react'
 - 'hello-shapes-react-graphql'
-
 - 'carbon-tutorial'
 
 #### HYBRID #2 - Modules
 
-#### By Cohort
+#### HYBRID #3 - Modules
+
+### Pod Formations
+#### Graduate
+Graduate Pods have more weight on stakeholder communication, leadership, synthesis.
+- Strategic Context.  U.S. Healthcare, Digital Health
+- Concepts.
+- Capabilities.
+- Culture. 
+#### Undergaduate
+Undergraduate Pods will have more mentoring focus with tactical solution-centric focus.
+- Strategic Context.  U.S. Healthcare, Digital Health
+- Concepts.
+- Capabilities.
+- Culture. 
