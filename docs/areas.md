@@ -2,7 +2,7 @@
 
 Areas I am most passionate about ...
 
-## Connected and Informed Consumers, Graphs, Knowledge Graphs, Quantum ML?
+## Connected and Informed Consumers, Graphs, Knowledge Graphs, Quantum ML
 Ask yourself this question?  Does the product you use really help you?  Do you find yourself having to look for right information but get frustated?  So much - you may even look for another product?   
 
 Clients often ask me this to solve their industry-specific problems.  Enter the accelerating industry trend of the *Connected and Informed Consumer*.  
