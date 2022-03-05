@@ -3,11 +3,13 @@
 Areas I am most passionate about ...
 
 ## Connected and Informed Consumers, Graphs, Knowledge Graphs
-Ask yourself this question?  Does the product you use really help you?  Do you find yourself having to look for right information but get frustated?  So much - you may even look for another product?   
+Ask yourself this question?  Does the product you use really help you?  Do you find yourself having to look for right information but get frustrated?  So much - you may even look for another product?   
 
-Clients often ask me this to solve their industry-specific problems.  Enter the accelerating industry trend of the *Connected and Informed Consumer*.  
+Clients often start with describing painful stories like: ... *Getting lost in silos of data*, *forced to use multiple tools to do the same task*, *not knowing how to search in order to get more informed to advance towards your goal*.
 
-A more *tangible* example...
+Enter the accelerating industry trend of the *Connected and Informed Consumer*.  
+
+## A more *tangible* example...
 
 As a remote caregiver of the U.S.  Healthcare system, *I ask myself* - we often never have the right information accessible, available, and connected to make decisions.  Most of the time we as a *product consumers* are not empowered to solve the problem in front of us.  
 
