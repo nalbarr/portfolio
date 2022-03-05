@@ -2,7 +2,7 @@
 
 Areas I am most passionate about ...
 
-## Connected and Informed Consumers, Graphs, Knowledge Graphs, Quantum ML
+## Connected and Informed Consumers, Graphs, Knowledge Graphs
 Ask yourself this question?  Does the product you use really help you?  Do you find yourself having to look for right information but get frustated?  So much - you may even look for another product?   
 
 Clients often ask me this to solve their industry-specific problems.  Enter the accelerating industry trend of the *Connected and Informed Consumer*.  
@@ -11,8 +11,7 @@ A more *tangible* example...
 
 As a remote caregiver of the U.S.  Healthcare system, *I ask myself* - we often never have the right information accessible, available, and connected to make decisions.  Most of the time we as a *product consumers* are not empowered to solve the problem in front of us.  
 
-I believe digital platforms powered by modern graph platforms, knowledge graphs, Cloud and AI can get us all closer to the desired product experience.  These these platform and experiences will use existing Cloud innovation but are trending to next generation capabilities such as Quantum Computing (QC).  Already Quantum ML is finding use within simulation.  The same approach used to accelerated COVID-19 vaccine discovery.
-
+I believe digital platforms powered by modern graph platforms, knowledge graphs, Cloud and AI can get us all closer to the desired product experience.  
 
 ## Building Bridges, Mentoring, Connecting The Dots 
 I *love* interdisciplinary teams.  For me, this where all the great ideas and innovation magic happen.  Once you have been part of a team like that - you never want to let the feeling go and always are looking to make it happen again.  This involves a lot of *bridge building* to connect customers, problems, specific needs and cleverly match resources and solutions to business models that can sustain them.
@@ -40,7 +39,9 @@ More recently, I navigated much of the deeplearning.ai certifications to fully i
 
 What are my current perspectives?  I am fully aligned with Andrew Ng's data-centric AI (DCAI) near term *but* Fei Fei Lei's human-centric AI philosophy of where AI, ML, and DL are today.  So, Data-centric and pragmatic in the short term with a vision and alignment for empathy, trust and ethics in the long term.  
 
-Where is the hocke puck going?  Meta AI and others will say self supervised learning (SSL).  I feel Quantum Computing (QC) is getthing very close to a 100'ish qubit breakthrough beyond the noisy intermediate-scale computing (NISC) boundary where only Quantum ML and simulation have been showing utility.
+The AI landscape moves fast.  What about the future?  Let me break it into two chunks.
+
+Near term - most of compute will still migrate to Cloud and server.  Big tech already pushing new methods beyond supervised learning (e.g., Meta AI's work with self supervised learning (SSL) ).  However, Geometric AI (e.g., Bronstein, Leskovic) will press towards richer representation learning.  In parallel, AI will push more towards edge devices while hardware innovations are the next gold rush.  In the medium to long term, Quantum Computing (QC) will press past nosiy intermediate-scale computing (NISC) boundary limited to only < 100 quality qubit use cases of hybrid Quantum ML and simulation. 
 
 ## Cloud, Platform Thinking
 For clients, I need to address their problems in the near and medium term.  This involves intentful listening and problem framing which requires an objective, solution agnostic and cloud neutral stance.  It really is not about Cloud; more about using platform thinking to solve problems in the small, then at scale.
