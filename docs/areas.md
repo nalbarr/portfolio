@@ -11,9 +11,8 @@ A more *tangible* example...
 
 As a remote caregiver of the U.S.  Healthcare system, *I ask myself* - we often never have the right information accessible, available, and connected to make decisions.  Most of the time we as a *product consumers* are not empowered to solve the problem in front of us.  
 
-I believe digital platforms powered by modern graph platforms, knowledge graphs, Cloud and AI can get us all closer to the desired product experience.  
+I believe digital platforms powered by modern graph platforms, knowledge graphs, Cloud and AI can get us all closer to the desired product experience.  These these platform and experiences will use existing Cloud innovation but are trending to next generation capabilities such as Quantum Computing (QC).  Already Quantum ML is finding use within simulation.  The same approach used to accelerated COVID-19 vaccine discovery.
 
-We are already entering a time where Quantum Computing (QC) has announced early innovation stories for Quantum ML/Simulation.
 
 ## Building Bridges, Mentoring, Connecting The Dots 
 I *love* interdisciplinary teams.  For me, this where all the great ideas and innovation magic happen.  Once you have been part of a team like that - you never want to let the feeling go and always are looking to make it happen again.  This involves a lot of *bridge building* to connect customers, problems, specific needs and cleverly match resources and solutions to business models that can sustain them.
@@ -30,7 +29,7 @@ U.S. Healthcare has a $4.1 T cost to our nation that needs big fixes.  The 21st 
 
 Modern HIT standards such as HL7 FHIR and APIs and related data standards such as USCDI, SNOMED CT, etc. require continuous practitioner capability and skill building along with real world *last mile* delivery experience.
 
-## Artificial Intelligence (AI)
+## Artificial Intelligence (AI), from Classic to Quantum ML
 Ever since I was an engineering student, I had always been fascinated with AI and what it might lead to in the future.  AI has gone through many evolutions - but I have mostly been on the applied AI side - *understanding human needs, solving problems, building solutions*.  
 
 From first order logic rules engines to ontologies to deep learning models, the focus has always been the same - empower humans to achieve their goals with value, at lower cost or risk.
@@ -39,7 +38,9 @@ Much of my current applied AI, graph thinking, and knowledge graph perspectives 
 
 More recently, I navigated much of the deeplearning.ai certifications to fully indoctroniate in modern AI trends.
 
-What are my current perspectives?  I am fully aligned with Andrew Ng's data-centric AI (DCAI) near term *but* Fei Fei Lei's human-centric AI philosophy of where AI, ML, and DL is where the hockey puck is going.  So, Data-centric and pragmatic in the short term with a vision and alignment for empathy, trust and ethics in the long term.  A longer term that may include beyond classic hardware and moving towards Quantum Computing (QC) starting with <100 qubit Quantum ML and simulation use cases.
+What are my current perspectives?  I am fully aligned with Andrew Ng's data-centric AI (DCAI) near term *but* Fei Fei Lei's human-centric AI philosophy of where AI, ML, and DL are today.  So, Data-centric and pragmatic in the short term with a vision and alignment for empathy, trust and ethics in the long term.  
+
+Where is the hocke puck going?  Meta AI and others will say self supervised learning (SSL).  I feel Quantum Computing (QC) is getthing very close to a 100'ish qubit breakthrough beyond the noisy intermediate-scale computing (NISC) boundary where only Quantum ML and simulation have been showing utility.
 
 ## Cloud, Platform Thinking
 For clients, I need to address their problems in the near and medium term.  This involves intentful listening and problem framing which requires an objective, solution agnostic and cloud neutral stance.  It really is not about Cloud; more about using platform thinking to solve problems in the small, then at scale.
