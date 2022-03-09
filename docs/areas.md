@@ -5,7 +5,7 @@ Areas I am most passionate about ...
 ## Connected and Informed Consumers, Graphs, Knowledge Graphs
 Ask yourself this question?  Does the product you use really help you?  Do you find yourself having to look for right information but get frustrated?  So much - you may even look for another product?   
 
-Clients often start with describing painful stories like: ... *Getting lost in silos of data*, *forced to use multiple tools to do the same task*, *not knowing how to search in order to get more informed to advance towards your goal*.
+Clients often start with describing painful stories like: ... *Getting lost in silos of data*, *forced to use multiple tools to do the same task*, *not knowing how to find information to reach goal or complete a task*.
 
 Enter the accelerating industry trend of the *Connected and Informed Consumer*.  
 
@@ -41,9 +41,11 @@ More recently, I navigated much of the deeplearning.ai certifications to fully i
 
 What are my current perspectives?  I am fully aligned with Andrew Ng's data-centric AI (DCAI) near term *but* Fei Fei Lei's human-centric AI philosophy of where AI, ML, and DL are today.  So, Data-centric and pragmatic in the short term with a vision and alignment for empathy, trust and ethics in the long term.  
 
-The AI landscape moves fast.  What about the future?  Let me break it into two chunks.
+The AI landscape moves fast.  What about the future?  Let me break it into two chunks - near term and more disruptive.
 
-Near term - most of compute will still migrate to Cloud and server.  Big tech already pushing new methods beyond supervised learning (e.g., Meta AI's work with self supervised learning (SSL) ).  However, Geometric AI (e.g., Bronstein, Leskovic) will press towards richer representation learning.  In parallel, AI will push more towards edge devices while hardware innovations are the next gold rush.  In the medium to long term, Quantum Computing (QC) will press past nosiy intermediate-scale computing (NISC) boundary limited to only < 100 quality qubit use cases of hybrid Quantum ML and simulation. 
+Near term - most of compute will still migrate to Cloud and server.  Big tech is already pushing new methods beyond mainstream supervised learning (e.g., Meta AI's work with self supervised learning (SSL) ).  Additionally, Geometric AI (e.g., Bronstein, Leskovic) presses towards richer representation learning beyond structured and tabular data.
+
+*On a disruptive innovation path*, in parallel, AI will push more *intelligence* towards edge devices as hardware innovations beyond GPUs are the next gold rush.  In the medium to long term, Quantum Computing (QC) will press past nosiy intermediate-scale computing (NISC) boundary limited to only < 100 quality qubit use cases.  I think Quantum ML and simulation will arrive faster the most think.
 
 ## Cloud, Platform Thinking
 For clients, I need to address their problems in the near and medium term.  This involves intentful listening and problem framing which requires an objective, solution agnostic and cloud neutral stance.  It really is not about Cloud; more about using platform thinking to solve problems in the small, then at scale.
