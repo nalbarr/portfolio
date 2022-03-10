@@ -50,7 +50,7 @@ Artificial Intelligence (AI), from Classic to Quantum ML
 Today,  I am fully aligned with Andrew Ng's data-centric AI (DCAI) near term *but* Fei Fei Lei's human-centric AI philosophy of where AI, ML, and DL are today.  So, Data-centric and pragmatic in the short term with strong alignment for empathy, trust and ethics in the long term.  
 
 The AI landscape is moving fast.  In the medium term and a more disruptive future - I think Classic to Quantum ML is where a lot of convergence will eventually lead. 
-Main stream and laggards will continue to migrate workloads incrementally to the Cloud.  However, *Big tech* is already innovative methods beyond mainstream supervised learning.  Meta (e.g., LeCunn) and others (e.g., Bengio) continue to refine self supervised learning (SSL) at scale.  In parallel, Geometric AI approaches (e.g., Bronstein, Leskovic) will extend ML towards richer representation learning beyond structured and tabular data.
+Main stream and laggards will continue to migrate workloads incrementally to the Cloud.  However, *Big tech* is already innovating beyond mainstream supervised learning.  Meta (e.g., LeCunn) and others (e.g., Bengio) continue to refine self supervised learning (SSL) at scale.  In parallel, Geometric AI approaches (e.g., Bronstein, Leskovic) will extend ML towards richer representation learning beyond structured and tabular data.
 
 AI will push more *intelligence* towards edge devices as hardware innovates beyond GPUs.  This will be the next gold rush.
 
