@@ -5,7 +5,7 @@ Areas I am most passionate about ...
 ## Connected and Informed Consumers, Graphs, Knowledge Graphs
 Ask yourself this question?  Does the product you use really help you?  Do you find yourself having to look for right information but get frustrated?  So much - you may even look for another product?   
 
-Clients often start with describing painful stories like: ... *Getting lost in silos of data*, *forced to use multiple tools to do the same task*, *not knowing how to find information to reach goal or complete a task*.
+Clients often describe to me painful experiences like: ... *Getting lost in silos of data*, *forced to use multiple tools to do the same task*, *not knowing how to find information to reach goal or complete a task*.
 
 Enter the accelerating industry trend of the *Connected and Informed Consumer*.  
 
@@ -45,7 +45,7 @@ The AI landscape moves fast.  What about the future?  Let me break it into two c
 
 Near term - most of compute will still migrate to Cloud and server.  Big tech is already pushing new methods beyond mainstream supervised learning (e.g., Meta AI's work with self supervised learning (SSL) ).  Additionally, Geometric AI (e.g., Bronstein, Leskovic) presses towards richer representation learning beyond structured and tabular data.
 
-*On a disruptive innovation path*, in parallel, AI will push more *intelligence* towards edge devices as hardware innovations beyond GPUs are the next gold rush.  In the medium to long term, Quantum Computing (QC) will press past nosiy intermediate-scale computing (NISC) boundary limited to only < 100 quality qubit use cases.  I think Quantum ML and simulation will arrive faster the most think.
+*On a disruptive innovation path*, in parallel, AI will push more *intelligence* towards edge devices as hardware innovates beyond GPUs are the next gold rush.  In the medium to long term, Quantum Computing (QC) will press past nosiy intermediate-scale computing (NISC) boundary limited to only < 100 quality qubit use cases.  I think Quantum ML and simulation will arrive faster the most think.
 
 ## Cloud, Platform Thinking
 For clients, I need to address their problems in the near and medium term.  This involves intentful listening and problem framing which requires an objective, solution agnostic and cloud neutral stance.  It really is not about Cloud; more about using platform thinking to solve problems in the small, then at scale.
