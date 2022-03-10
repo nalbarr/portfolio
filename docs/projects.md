@@ -34,7 +34,7 @@ I really respect John Halamka, MD as a Digital Health thought leader, clinician 
 
 Concepts:  AI, ML, NLP, Text classification
 
-Technologies:  Jupyter Notebook/Colab, Python, Tensorflow, Kera, NLP
+Technologies:  Jupyter Notebook/Colab, Python, Tensorflow, Keras, NLP
 
 [repo](https://github.com/nalbarr/halamka_nlp_tf_keras)
 
