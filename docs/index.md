@@ -6,7 +6,7 @@ Passionate about building products that empower humans with connected informatio
 </p>
  
 <p>
-Experienced technology leader with an interdisciplinary background in U.S. healthcare, health informatics, health information technology (HIT), human-centered design (HCD), and applied AI.  
+Experienced product-centric leader with an interdisciplinary background in U.S. healthcare, health informatics, health information technology (HIT), human-centered design (HCD), and applied AI.  
 </p>
 <p>
 Industry practitioner specialized at the intersection of the human experience, digital platforms, and applied AI.  Lifelong learner with 20+ MOOC certifications and nominated deeplearning.ai #AI4MED mentor.  Master in Human-Computer interaction (HCI) from DePaul University, and Bachelor of Science in Industrial and Systems Engineering from Purdue University. 
