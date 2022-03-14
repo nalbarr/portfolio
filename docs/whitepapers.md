@@ -9,7 +9,7 @@ Many of these white papers were foundational and early thought leadershp to HYBR
 > This white paper inspired my research interests with human-centered design (HCD) method for task-based interfaces that integrated with knowledge graphs, semantics, and health informatics.
 
 3. [Bridging Human-Computer Interaction (HCI), Software Engineering and Healthcare Informatics using Interoperability Driven Design (IDD) approach to improve Task-based applications]()
-> This white paper captured key perspectives, challenges and learnings launching a U.S. Healthcare HIT standard within cancer reporting and how product discovery needed effective prototypoing that included HIT standards in parallel to validate properly with subject matter experts (SMEs). 
+> This white paper captured key perspectives, challenges and learnings launching a U.S. Healthcare HIT standard within cancer reporting and how product discovery needed effective prototyping that included HIT standards early in subject matter experts (SMEs) socialization, review and validation. 
 
 4. [Using Contextual Inquiry (CI) to surface design improvements for Task-based applications used for Laboratory terminology mapping validation]()
-> This white paper is an extension of cancer reporting experiences with direct tie to modified human-centered design (HCD) methods particular to subect matter experts (SMEs) specialized with health informatics mapping tools.
+> This white paper is an extension of cancer reporting experiences with towards a modified human-centered design (HCD) methods for subect matter experts (SMEs) creating content and that a task-based user interface is dependent on.  It is based on a pilot done observing terminology mappers in clinical and laboratory domains.
