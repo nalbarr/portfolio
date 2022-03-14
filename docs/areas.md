@@ -52,8 +52,10 @@ My crystal ball? Something like:
 > Data-centric AI (DCAI) -> Human-centered AI (HCAI) + Narrow AI -> Geometric AI extends Narrow AI ->  -> Connected, Informed Interfaces powered by Quantum ML
 
 The AI landscape is moving fast.  In the medium term and a more disruptive future - I think Classic to Quantum ML is where a lot of convergence will eventually lead. 
-Main stream and laggards will continue to migrate workloads incrementally to the Cloud.  However, *Big tech* is already innovating beyond mainstream supervised learning.  Meta (e.g., LeCunn) and others (e.g., Bengio) continue to refine self supervised learning (SSL) at scale.  In parallel, Geometric AI approaches (e.g., Bronstein, Leskovic) will extend ML towards richer representation learning beyond structured and tabular data.
+Main stream and laggards will continue to migrate workloads incrementally to the Cloud.  However, *Big tech* is already innovating beyond mainstream supervised learning.  Meta (e.g., LeCunn) and others (e.g., Bengio) continue to refine self supervised learning (SSL) at scale.  
+
+In parallel, Geometric AI approaches (e.g., Bronstein, Leskovic) will extend ML towards richer representation learning beyond structured and tabular data.
 
 AI will push more *intelligence* towards edge devices as hardware innovates beyond GPUs.  This will be the next gold rush.
 
-In the medium to longer term, Quantum Computing (QC) will advanced past nosiy intermediate-scale computing (NISC) boundary limited to only < 100 qubit use cases.  However, I think Quantum ML and simulation will arrive faster the most think.
+In the medium to longer term, Quantum Computing (QC) will advanced past noisy intermediate-scale computing (NISC) boundary limited to only < 100 qubit use cases.  However, I think Quantum ML and simulation will arrive faster the most think.
