@@ -46,10 +46,10 @@ That said, my first cloud was Microsoft Azure.  Most of my earlier cloud experie
 
 ## Where do I think AI, Cloud, and all of it is going?
 
-Today,  I am fully aligned with Andrew Ng's data-centric AI (DCAI) near term *but* Fei Fei Lei's human-centric AI philosophy of where AI, ML, and DL are today.  So, Data-centric and pragmatic in the short term with strong alignment for empathy, trust and ethics in the long term.
+Today,  I am aligned with Andrew Ng's data-centric AI (DCAI) near term *but* feel Fei Fei Lei's human-centric AI (HCAI) philosophy needs even more focus today.  DCAI is evolving fast a best practice but HCAI holds great opportunity are addressing empathy, trust and ethics which will be mandatory for long term success.  We are still very much in Narrow AI as many of the innovations are task specific still.
 
 My crystal ball? Something like:
-> Data-centric AI (DCAI) -> Human-centered AI (HCAI) + Narrow AI -> Geometric AI extends Narrow AI ->  -> Connected, Informed Interfaces powered by Quantum ML
+> Data-centric AI (DCAI) -> Human-centered AI (HCAI) + Narrow AI -> Narrow AI extended by Geometric AI (richer representations) ->  (Early) Broad AI -> Connected, Informed Human-computer interaction (HCI) with integrated tasks powered by Quantum ML
 
 The AI landscape is moving fast.  In the medium term and a more disruptive future - I think Classic to Quantum ML is where a lot of convergence will eventually lead. 
 Main stream and laggards will continue to migrate workloads incrementally to the Cloud.  However, *Big tech* is already innovating beyond mainstream supervised learning.  Meta (e.g., LeCunn) and others (e.g., Bengio) continue to refine self supervised learning (SSL) at scale.  
